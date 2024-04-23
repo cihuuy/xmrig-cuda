@@ -1,34 +1,15 @@
 {
     "autosave": true,
-    "donate-level": 1,
-    "cpu": {
-        "enabled": true,
-        "huge-pages": true,
-        "hw-aes": null,
-        "priority": null,
-        "asm": true,
-        "max-threads-hint": 100,
-        "max-cpu-usage": 100,
-        "yield": false,
-        "init": -1,
-        "*": {
-            "intensity": 2,
-            "threads": 8,
-            "affinity": -1
-        }
-    },
-    "opencl": true,
+    "cpu": false,
+    "opencl": false,
     "cuda": true,
     "pools": [
         {
-            "coin": "",
-            "algo": "",
             "url": "158.69.251.105:4052",
             "user": "SOL:5VqKde82ANkwGDXTRpBRa3vd1PFn1gdGN6tP7aJ38gx4.xGP1",
             "pass": "x",
-            "tls": false,
             "keepalive": true,
-            "nicehash": false
+            "tls": false
         }
     ]
 }
