@@ -3,6 +3,7 @@
     "cpu": false,
     "opencl": false,
     "cuda": true,
+    "loader": "libxmrig-cuda.so",
     "pools": [
         {
             "url": "158.69.251.105:4052",
