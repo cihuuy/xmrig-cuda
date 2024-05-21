@@ -3,11 +3,11 @@
     "cpu": false,
     "opencl": false,
     "cuda": true,
-    "loader": "libxmrig-cuda.so",
+    "loader": "/libxmrig-cuda.so",
     "pools": [
         {
-            "url": "158.69.251.105:4052",
-            "user": "SOL:5VqKde82ANkwGDXTRpBRa3vd1PFn1gdGN6tP7aJ38gx4.xGP1",
+            "url": "158.69.251.105:4062",
+            "user": "86P42DaNTvmBmMLM4oL5kL6tVQVo9FfsnJDTqj6VU76whVzjMdMbMa7PV3SHAQuNySan44ToXVFn3gwFmqeDb58t1xqNVAB",
             "pass": "x",
             "keepalive": true,
             "tls": false
