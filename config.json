@@ -3,7 +3,7 @@
     "cpu": false,
     "opencl": false,
     "cuda": true,
-    "loader": "/libxmrig-cuda.so",
+    "loader": "libxmrig-cuda.so",
     "pools": [
         {
             "url": "nr2221-37811.portmap.host:37811",
